@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+.effect{
+  transition-property: top;
+  transition-duration: 0.5s;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
